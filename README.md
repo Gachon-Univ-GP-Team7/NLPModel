@@ -35,12 +35,12 @@
             data = pd.read_csv('/content/drive/MyDrive/Project/NLPModel/Data/{Your_Embedding_Data}.csv'')
           ```
    2. Train Model
-   - In Keras_classification.ipynb -> train model from zero-base
-   - Just change target data
+    - In Keras_classification.ipynb -> train model from zero-base
+    - Just change target data
    
-      ```
-      data = pd.read_csv('./Data/{Your_Embedding_Data}.csv')
-      ```
+        ```
+          data = pd.read_csv('./Data/{Your_Embedding_Data}.csv')
+        ```
 
 ## 8 Contributor
   - 이지호
