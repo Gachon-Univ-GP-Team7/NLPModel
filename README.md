@@ -37,6 +37,7 @@
    2. Train Model
    - In Keras_classification.ipynb -> train model from zero-base
    - Just change target data
+   
       ```
       data = pd.read_csv('./Data/{Your_Embedding_Data}.csv')
       ```
